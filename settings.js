@@ -4,23 +4,23 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: GlobalTechInfo" //ur yt chanel name
-global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
-global.location = "Pakistan, Karachi, Karachi" //ur location
+global.ytname = "YT: Ny2005" //ur yt chanel name
+global.socialm = "GitHub: Nyasha2005" //ur github or insta name
+global.location = "Harare, Zimbabwe" //ur location
 
 //new
 global.botname = '© LORD RAIDEN ' //ur bot name
 global.ownernumber = ['263718228938'] //ur owner number, dont add more than one
 global.ownername = '© NY.BMW.WT' //ur owner name
-global.websitex = "https://www.youtube.com/@GlobalTechInfo"
+global.websitex = "https://www.youtube.com/@Nyasha2005"
 global.wagc = "https://whatsapp.com/channel/0029VafmABz7Noa5NCDBfc0A"
 global.themeemoji = '⚡️'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
+global.botscript = 'https://github.com/Nyasha2005/GLOBAL-MD2' //script link
 global.packname = "Sticker By"
-global.author = "GlobalTechInfo\n\n+923444844060"
+global.author = "GlobalTechInfo\n\n+263718228938"
 global.creator = "263718228938@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '. , ⚡️'
 global.premium = ["263718228938"] // Premium User
 
 //channel id
